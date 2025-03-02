@@ -58,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/ktsutheeb/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1827-invalid-tweets](https://github.com/ktsutheeb/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ktsutheeb/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2057-count-salary-categories](https://github.com/ktsutheeb/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/ktsutheeb/Leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
