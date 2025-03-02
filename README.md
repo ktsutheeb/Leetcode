@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ktsutheeb/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ktsutheeb/Leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
