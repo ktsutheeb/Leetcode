@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/ktsutheeb/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/ktsutheeb/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/ktsutheeb/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/ktsutheeb/Leetcode/tree/master/1480-movie-rating) |
 | [1827-invalid-tweets](https://github.com/ktsutheeb/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ktsutheeb/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/ktsutheeb/Leetcode/tree/master/2057-count-salary-categories) |
