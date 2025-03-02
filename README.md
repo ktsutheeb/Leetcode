@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ktsutheeb/Leetcode/tree/master/0015-3sum) |
+| [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ktsutheeb/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -71,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ktsutheeb/Leetcode/tree/master/0015-3sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
