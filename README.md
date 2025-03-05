@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
