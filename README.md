@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ktsutheeb/Leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
 |  |
