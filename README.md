@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ktsutheeb/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ktsutheeb/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ktsutheeb/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ktsutheeb/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ktsutheeb/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ktsutheeb/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
