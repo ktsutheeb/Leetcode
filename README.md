@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ktsutheeb/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ktsutheeb/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ktsutheeb/Leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/ktsutheeb/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ktsutheeb/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ktsutheeb/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ktsutheeb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ktsutheeb/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ktsutheeb/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
