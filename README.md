@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ktsutheeb/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ktsutheeb/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ktsutheeb/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ktsutheeb/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ktsutheeb/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
