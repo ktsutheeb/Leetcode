@@ -5,9 +5,13 @@ class Solution {
         
         int ans;
         ArrayList<Integer> al=new ArrayList<>(hm.values());
-        int max=Collections.max(al);
-        for(Map.Entry<Integer,Integer> entry:hm.entrySet()){
-            if(max==entry.getValue()) return entry.getKey();
+        // int max=Collections.max(al);
+        // for(Map.Entry<Integer,Integer> entry:hm.entrySet()){
+        //     if(max==entry.getValue()) return entry.getKey();
+
+        for(int i:hm.keySet()) {
+        if(hm.get(i)>(nums.length-1)/2)
+        return i;
         }
         return 0;
     }
