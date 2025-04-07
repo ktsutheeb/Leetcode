@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ktsutheeb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ktsutheeb/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ktsutheeb/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ktsutheeb/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ktsutheeb/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ktsutheeb/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ktsutheeb/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Heap (Priority Queue)
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ktsutheeb/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ktsutheeb/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ktsutheeb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
