@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ktsutheeb/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ktsutheeb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktsutheeb/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ktsutheeb/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ktsutheeb/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ktsutheeb/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ktsutheeb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ktsutheeb/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
