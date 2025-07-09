@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ktsutheeb/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ktsutheeb/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ktsutheeb/Leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ktsutheeb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
