@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3396-valid-word](https://github.com/ktsutheeb/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/ktsutheeb/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
