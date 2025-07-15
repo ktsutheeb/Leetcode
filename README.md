@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ktsutheeb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktsutheeb/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ktsutheeb/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ktsutheeb/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ktsutheeb/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3396-valid-word](https://github.com/ktsutheeb/Leetcode/tree/master/3396-valid-word) |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ktsutheeb/Leetcode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
