@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ktsutheeb/Leetcode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/ktsutheeb/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ktsutheeb/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
