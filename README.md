@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ktsutheeb/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ktsutheeb/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktsutheeb/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ktsutheeb/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ktsutheeb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ktsutheeb/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ktsutheeb/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0953-reverse-only-letters](https://github.com/ktsutheeb/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ktsutheeb/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ktsutheeb/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktsutheeb/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ktsutheeb/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ktsutheeb/Leetcode/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/ktsutheeb/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ktsutheeb/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
