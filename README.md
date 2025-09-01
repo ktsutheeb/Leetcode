@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ktsutheeb/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ktsutheeb/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktsutheeb/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ktsutheeb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ktsutheeb/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ktsutheeb/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/ktsutheeb/Leetcode/tree/master/0953-reverse-only-letters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ktsutheeb/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ktsutheeb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ktsutheeb/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktsutheeb/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ktsutheeb/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ktsutheeb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ktsutheeb/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ktsutheeb/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ktsutheeb/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktsutheeb/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Depth-First Search
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ktsutheeb/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ktsutheeb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
